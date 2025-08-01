@@ -1,13 +1,13 @@
 <h1 align="center">Tyreese Green</h1>
 <p align="center">
-  🧑‍💻 3rd year Computer Science student at the University of Leeds <br>
-  🎯 Passionate about AI, data, and smart software <br>
-  📍 UK-based | Open to opportunities
+  3rd year Computer Science student at the University of Leeds <br>
+  Passionate about AI, data, and smart software <br>
+  UK-based | Open to opportunities
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyreese2070&layout=compact&theme=radical" width="50%"/>
