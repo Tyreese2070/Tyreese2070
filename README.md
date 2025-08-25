@@ -1,8 +1,7 @@
 <h1 align="center">Tyreese Green</h1>
 <p align="center">
-  3rd year Computer Science student at the University of Leeds <br>
-  Passionate about AI, data, and smart software <br>
-  UK-based | Open to opportunities
+  3rd year MEng Computer Science student at the University of Leeds <br>
+  
 </p>
 
 ---
